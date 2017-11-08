@@ -1,4 +1,4 @@
-package com.vikas.playground.SpringDemoOne;
+package com.vikas.playground.spring001;
 
 public class TrackCoach implements Coach {
 

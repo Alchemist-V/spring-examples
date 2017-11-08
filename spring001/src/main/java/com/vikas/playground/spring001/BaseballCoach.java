@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.vikas.playground.SpringDemoOne;
+package com.vikas.playground.spring001;
 
 /**
  * @author vrajori

@@ -1,2 +1,5 @@
 /target/
 .DS*
+*classpath
+*project
+*setting*
