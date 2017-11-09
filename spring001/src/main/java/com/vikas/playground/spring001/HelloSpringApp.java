@@ -21,6 +21,8 @@ public class HelloSpringApp {
 		// invoke bean method
 		System.out.println(coach.getDailyWorkout());
 
+		System.out.println(coach.tellFortune());
+
 		// close context
 		context.close();
 	}
